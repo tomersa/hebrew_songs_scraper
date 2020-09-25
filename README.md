@@ -17,4 +17,4 @@ Check it out. You should see something similar to this:
 והשלכת השיער לאחור בתנועה חלקה של פרק היד
 מונעים יצירת ספק - אצל
 
-The scrapers might output 'Processing error' for some files. In this case it ignores it and continues to the next one. Not all files contain songs so this it not really a problem.
+The scrapers might output 'Processing error' for some files. In this case it ignores it and continues to the next one. Each scraper looks for a specific tag in the html and if it doesn't finds it then it will not work. Not all files contain songs so this it not really a problem.
